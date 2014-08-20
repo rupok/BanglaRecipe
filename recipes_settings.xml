@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+    
+    <MainSettings>
+        <LogoActive>logo_active</LogoActive>
+        <LogoInactive>logo</LogoInactive>
+   	</MainSettings>
+    
+    <!-- List with main courses -->
+    <Category name="Main Courses"  icon="main">
+        <RecipeInfo id="1">
+            
+            <RecipeTitle>Apple Cranberry Stuffed Pork Roast</RecipeTitle>
+            
+            <RecipePicture>cranberry_pork</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>20 mins</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>60 mins</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>6-8</RecipeSummaryPortions>
+                <RecipeSummaryCalories>1200</RecipeSummaryCalories>
+                <RecipeSummaryDescription>The filling is essentially a sweet sour chutney, made with brown sugar, vinegar, dried apples and cranberries. Though pretty much any chutney would work in this recipe. The roast is “double butterflied”, filling applied, meat rolled up and roasted. The acidity of the chutney-ish filling tenderizes the pork roast from the inside. The original recipe calls for grilling the roast with soaked wood chips but you can easily make this roast in the oven. The recipe also uses dried apples, which can be a little hard to find. I think next time we may try making this with peeled, diced, fresh apples.</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>apple cider</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 cup</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>cider vinegar</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>packed light brown sugar</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>3/4 cup</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>shallot, peeled, thinly sliced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>dried apples (packed)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 1/2 cups</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>dried cranberries</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>grated fresh ginger</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 Tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>ground allspice</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>cayenne pepper</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/8 to 1/4 teaspoon</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>pound boneless center-cut pork loin roast (short and wide - about 7-8 inches long and 4-5 inches wide)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 1/2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>Kosher salt and freshly ground black pepper</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Before starting on the pork, put the pork roast in the freezer for 30 minutes to make it easier to cut. While the pork is chilling, you can make the filling.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Bring all the filling ingredients to simmer in medium saucepan over medium-high heat. Cover, reduce heat to low, and cook until apples are very soft, about 20 minutes. Strain through a fine-mesh sieve, reserving the liquid. Use a rubber spatula to press against the apple mixture in the sieve to extract as much liquid out as possible. Return liquid to saucepan and simmer over medium-high heat until reduced to 1/2 cup, about 5 minutes. Remove from heat, set aside and reserve this liquid for use as a glaze. Pulse apple mixture in food processor, about fifteen 1-second pulses. Set aside.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>Preheat oven to 350°F or prepare your grill for indirect heat. You will be "double-butterflying" the pork roast. Lay the roast down, fat side up. Insert the knife into the roast 1/2-inch horizontally from the bottom of the roast, along the long side of the roast. Make a long cut along the bottom of the roast, stopping 1/2 inch before the edge of the roast. You might find it easier to handle by starting at a corner of the roast. Open up the roast and continue to cut through the thicker half of the roast, again keeping 1/2 inch from the bottom. Repeat until the roast is an even 1/2-inch thickness all over when laid out. If necessary, pound the roast to an even thickness with a meat pounder.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 4: </RecipeStepName>
+                    <RecipeStepDescription>Season the inside of the roast well with salt and pepper. Spread out the filling on the roast, leaving a 1/2-inch border from the edges. Starting with the short side of the roast, roll it up very tightly. Secure with kitchen twine at 1-inch intervals. Season the outside of the roast generously with salt and pepper.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 5: </RecipeStepName>
+                    <RecipeStepDescription>Place roast on a rack in a roasting pan, place in oven, on the middle rack.
+
+You can also grill the roast, using indirect heat either gas or charcoal. If you are using charcoal, use about 5 pounds of coals, bank them to one side. Preheat the grill, covered. Wipe the grates with olive oil. Place roast, fat side up, on the side of the grill that has no coals underneath. Place the lid on the grill, with the vent directly over the roast. If you are grilling with gas, place all the burners on high for 15 minutes to heat the grates, brush grates with olive oil, turn off the middle burner, place roast fat-side up on middle burner. If you are grilling, turn roast half way through the cooking.
+
+Cook for 45 to 60 minutes, until the internal temperature of the roast is 130 to 135 degrees. Brush with half of the glaze and cook for 5 minutes longer. Remove the roast from the oven or grill. Place it on a cutting board. Tent it with foil to rest and keep warm for 15 minutes before slicing.</RecipeStepDescription>
+                </RecipeStep>
+                 <RecipeStep>
+                   <RecipeStepName>Step 6: </RecipeStepName>
+                   <RecipeStepDescription>Slice into 1/2-inch wide pieces, removing the cooking twine as you cut the roast. Serve with remaining glaze.</RecipeStepDescription>
+               </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>        
+    </Category>
+    
+    <!-- List with appetizers -->
+    <Category name="Appetizers" icon="appet">
+       <RecipeInfo id="2">
+            
+            <RecipeTitle>Avocado, Tomato and Mango Salsa</RecipeTitle>
+            
+            <RecipePicture>avocado_salsa</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>Cuba</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>15 mins</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>30 mins</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>10</RecipeSummaryPortions>
+                <RecipeSummaryCalories>500</RecipeSummaryCalories>
+                <RecipeSummaryDescription>Looking for a refreshing salsa for a warm summer evening? This is our favorite. Serve with tortilla chips. This is also fantastic served on white fish. I often use a canned jalapeno instead of fresh.</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>mango - peeled, seeded and diced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>avocado - peeled, pitted, and diced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>tomatoes - diced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>4</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>jalapeno pepper - seeded and minced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>chopped fresh cilantro</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>garlic - minced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>salt</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 teaspoon</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>fresh lime juice</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 tablespoons</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>chopped red onion</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/4 cup</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>olive oil</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>3 tablespoons</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>In a large skillet, brown onion and ground beef over medium heat. Add spaghetti sauce, and simmer 15 minutes.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Layer as follows: 1/2 of the ziti, Provolone cheese, sour cream, 1/2 sauce mixture, remaining ziti, mozzarella cheese and remaining sauce mixture. Top with grated Parmesan cheese.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 4: </RecipeStepName>
+                    <RecipeStepDescription>Bake for 30 minutes in the preheated oven, or until cheeses are melted.
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+       <RecipeInfo id="3">
+           
+           <RecipeTitle>Phyllo-Wrapped Asparagus with Prosciutto</RecipeTitle>
+           
+           <RecipePicture>phyllo</RecipePicture>
+           
+           <RecipeSummary>
+               <RecipeSummaryOrigin>Italy</RecipeSummaryOrigin>
+               <RecipeSummaryPreparationTime>15 min</RecipeSummaryPreparationTime>
+               <RecipeSummaryCookingTime>30 min</RecipeSummaryCookingTime>
+               <RecipeSummaryPortions>10</RecipeSummaryPortions>
+               <RecipeSummaryCalories>653 kcal</RecipeSummaryCalories>
+               <RecipeSummaryDescription>Phyllo-Wrapped Asparagus with Prosciutto is an appetizer worthy of a special occasion. </RecipeSummaryDescription>
+           </RecipeSummary>
+           
+           <RecipeIngredientsList>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>thinly sliced prosciutto, cut into 30 long, thin strips</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>3 ounces</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>asparagus spears, trimmed</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>30</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>(14 x 9-inch) sheets frozen phyllo dough, thawed</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>10</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>Cooking spray</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>N/A</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+           </RecipeIngredientsList>
+           
+           <RecipeStepsList>
+               <RecipeStep>
+                   <RecipeStepName>Step 1: </RecipeStepName>
+                   <RecipeStepDescription>Preheat oven to 450°.</RecipeStepDescription>
+               </RecipeStep>
+               <RecipeStep>
+                   <RecipeStepName>Step 2: </RecipeStepName>
+                   <RecipeStepDescription>Wrap 1 prosciutto strip around each asparagus spear, barber polestyle. Place 1 phyllo sheet on a work surface (cover remaining phyllo to prevent drying); coat phyllo with cooking spray. Cut crosswise into thirds to form 3 (4 1/2 x 9inch) rectangles. Arrange 1 asparagus spear across 1 short end of each rectangle; roll up jelly-roll fashion. Arrange rolls on a baking sheet; coat rolls with cooking spray. Repeat procedure with remaining phyllo, asparagus, and cooking spray. Bake at 450° for 10 minutes or until phyllo is golden and crisp. Serve warm or at room temperature.
+</RecipeStepDescription>
+               </RecipeStep>
+               <RecipeStep>
+                   <RecipeStepName>Note: </RecipeStepName>
+                   <RecipeStepDescription>Make-ahead tip: Arrange assembled rolls on a baking sheet, coat with cooking spray, and cover; store in the fridge for up to four hours. Bake an hour or two before the party.</RecipeStepDescription>
+               </RecipeStep>
+           </RecipeStepsList>
+           
+       </RecipeInfo>
+        <RecipeInfo id="4">
+           
+           <RecipeTitle>Roast Chicken-Chipotle Nachos with Cilantro-Avocado Crema</RecipeTitle>
+           
+           <RecipePicture>chicken_chipotle</RecipePicture>
+           
+           <RecipeSummary>
+               <RecipeSummaryOrigin>N/A</RecipeSummaryOrigin>
+               <RecipeSummaryPreparationTime>N/A</RecipeSummaryPreparationTime>
+               <RecipeSummaryCookingTime>N/A</RecipeSummaryCookingTime>
+               <RecipeSummaryPortions>8</RecipeSummaryPortions>
+               <RecipeSummaryCalories>N/A</RecipeSummaryCalories>
+               <RecipeSummaryDescription>Purchase a roast chicken from a deli; a 2-pound bird produces about 3 cups shredded meat.</RecipeSummaryDescription>
+           </RecipeSummary>
+           
+           <RecipeIngredientsList>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>chopped onion</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>olive oil</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1 tablespoon</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>cumin seeds</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>dried oregano</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>canned chipotle chilies, chopped</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1 to 2</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>tomato paste</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>2 tablespoons</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>white wine vinegar</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1 tablespoon</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>bite-size shreds skinned cooked chicken (see notes)</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>2 cups</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>corn tortilla chips (2 3/4 in. wide)</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>24</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>shredded jack cheese (6 oz.)</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>1 1/2 cups</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>Cilantro-Avocado Crema</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>N/A</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>fresh cilantro leaves</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>24</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+           </RecipeIngredientsList>
+           
+           <RecipeStepsList>
+               <RecipeStep>
+                   <RecipeStepName>Step 1: </RecipeStepName>
+                   <RecipeStepDescription> In a 2 1/2- to 3-quart pan over medium-high heat, frequently stir onion in olive oil until onion begins to brown, 4 to 7 minutes. Add cumin seeds and oregano; stir until fragrant, about 30 seconds. Add chilies, tomato paste, vinegar, and 1/2 cup water; bring to a boil, then reduce heat and simmer gently, stirring often, to blend flavors, about 5 minutes. Add chicken and stir until hot.</RecipeStepDescription>
+               </RecipeStep>
+               <RecipeStep>
+                   <RecipeStepName>Step 2: </RecipeStepName>
+                   <RecipeStepDescription>Meanwhile, arrange tortilla chips in a single layer in a 12- by 17-inch pan. Sprinkle equal portions of cheese on each chip and spoon about 1 tablespoon chicken mixture on top.
+</RecipeStepDescription>
+               </RecipeStep>
+               <RecipeStep>
+                   <RecipeStepName>Step 3: </RecipeStepName>
+                   <RecipeStepDescription>Bake in a 450° regular or convection oven until cheese begins to bubble, about 3 minutes. With a spatula, carefully transfer tortilla chips to a platter. Top each with 1 teaspoon Cilantro-Avocado Crema and garnish with a cilantro leaf. Serve warm.
+Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avocado, 2 tablespoons sour cream, 1 tablespoon finely chopped fresh cilantro leaves, 2 teaspoons lime juice, and 2 teaspoons milk. Add salt to taste. Makes about 1/2 cup.</RecipeStepDescription>
+               </RecipeStep>
+           </RecipeStepsList>
+           
+       </RecipeInfo>
+       </Category>
+    
+    
+    
+    <!-- List with soups -->
+    <Category name="Soups"  icon="soup">
+        <RecipeInfo id="5">
+            
+            <RecipeTitle>Spicy lentil soup with curry pinwheel rolls</RecipeTitle>
+            
+            <RecipePicture>spicy_lentil_soup</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>20 mins.</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>25 mins.</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>4</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>Spicy lentil soup with curry pinwheel rolls</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>curry paste</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>onion, chopped</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>carrots, grated</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>red lentils</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>140 g.</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>hot vegetable stock</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1l</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>pack bread mix</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>500 g.</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Heat oven to 220C/200C fan/gas 7. For the rolls, make up the bread mix following pack instructions, then roll out to a 30 x 40cm rectangle. Spread over the curry paste, then roll up, starting with the longest edge, like a roly poly. Cut into 8 slices and transfer to a lightly oiled baking sheet. Bake for 20-25 mins or until golden and cooked through.</RecipeStepDescription>
+                </RecipeStep>
+                 <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Meanwhile, make the soup. Fry the curry paste and onion in a large pan for 2 mins until fragrant. Stir in the carrots and lentils and mix to coat in the curry paste. Cook for 2 mins, then pour in the stock and simmer for 20 mins until the lentils are tender. Whizz with a stick blender until smooth, add some seasoning and serve with the curry pinwheels.</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+
+        <RecipeInfo id="6">
+            
+            <RecipeTitle>Chicken noodle soup</RecipeTitle>
+            
+            <RecipePicture>chicken_soup</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>UK</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>10 mins.</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>30 mins.</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>2</RecipeSummaryPortions>
+                <RecipeSummaryCalories>217</RecipeSummaryCalories>
+                <RecipeSummaryDescription>Mary Cadogan's aromatic broth will warm you up on a winter's evening - it contains ginger, which is particularly good for colds, too</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>chicken or vegetable stock (or Miso soup mix)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>900 ml.</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>boneless, skinless chicken breast, about 175g/6oz</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>chopped fresh root ginger</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>garlic clove, finely chopped</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>rice or wheat noodles</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>50 g.</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>sweetcorn, canned or frozen</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>mushrooms, thinly sliced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2-3</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>spring onions, shredded</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>soy sauce, plus extra for serving</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>mint or basil leaves and a little shredded chilli (optional), to serve</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Pour the stock into a pan and add the chicken, ginger and garlic. Bring to the boil, then reduce the heat, partly cover and simmer for 20 mins, until the chicken is tender. Remove the chicken to a board and shred into bite-size pieces using a couple of forks</RecipeStepDescription>
+                </RecipeStep>
+                 <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Return the chicken to the stock with the noodles, corn, mushrooms, half the spring onions and the soy sauce. Simmer for 3-4 mins until the noodles are tender. Ladle into two bowls and scatter over the remaining spring onions, herbs and chilli shreds if using. Serve with extra soy sauce for sprinkling.</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+    </Category>
+    
+    <!-- List with vegeterian meals -->
+    <Category name="Vegetarian"  icon="veg">
+        <RecipeInfo id="7">
+            
+            <RecipeTitle>Vegetarian casserole</RecipeTitle>
+            
+            <RecipePicture>vegetarian_casserole</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>France</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>10 mins.</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>40 mins.</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>4</RecipeSummaryPortions>
+                <RecipeSummaryCalories>216</RecipeSummaryCalories>
+                <RecipeSummaryDescription>A Mediterranean one-pot stew with peppers, courgettes, lentils, sweet smoked paprika and thyme</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>olive or rapeseed oil</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>onion, finely chopped</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>garlic cloves, sliced</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>smoked paprika</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>cumin</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1/2 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>dried thyme</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>carrots, sliced (about 200g)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>sticks celery, finely sliced (about 120g)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>red pepper, chopped</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>yellow pepper, chopped</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>tins tomatoes or peeled cherry tomatoes</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 x 400 g.</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>vegetable stock cube (we used 1 Knorr vegetable stock pot)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>250 ml</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>courgettes, sliced thickly (about 300 g)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>sprigs fresh thyme</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>cooked lentils (we used Merchant Gourmet ready-to-eat Puy lentils)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>250 g</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Heat the oil in a large, heavy-based pan. Add the onions and cook gently for 5 – 10 mins until softened.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Add the garlic, spices, dried thyme, carrots, celery and peppers and cook for 5 minutes.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>Add the tomatoes, stock, courgettes and fresh thyme and cook for 20 - 25 minutes.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 4: </RecipeStepName>
+                    <RecipeStepDescription>Take out the thyme sprigs. Stir in the lentils and bring back to a simmer. Serve with wild and white basmati rice, mash or quinoa.</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+    </Category>
+
+    <!-- List with deserts -->
+    <Category name="Deserts"  icon="des">
+        <RecipeInfo id="8">
+            
+            <RecipeTitle>Summer berry terrine</RecipeTitle>
+            
+            <RecipePicture>berry_terrine</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>n/a</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>25 - 35 mins.</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>6</RecipeSummaryPortions>
+                <RecipeSummaryCalories>603</RecipeSummaryCalories>
+                <RecipeSummaryDescription>A refreshing and colourful dinner party desert</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>plain Madeira cake</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>450-500g/1lb-1lb 2oz</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>mixed berries (include strawberries and red and blackcurrants, if possible)
+</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1 kg</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>golden caster sugar</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>100 g</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>cassis (blackcurrant liqueur), optional</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>coulis, to serve </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>For the compote, hull strawberries and halve or slice if large. Put currants and blackberries (if using) into a pan with the sugar and 3 tbsp water and bring to the boil, stirring. Simmer for 5 mins until softened, add remaining fruits and cook for a couple more mins. Remove from the heat, add cassis, if using, then cool.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Line the base of a 1kg loaf tin with a long strip of double thickness baking parchment, allowing some overhang at the narrow ends to make lifting easier. Slice the cake into long thin strips to allow for 3 layers. Use offcuts for 'patching'.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>Cover the base of the tin with one layer of cake, trimming offcuts to fit snugly. Spoon in half the fruits with some juice on top. Fit another layer of cake on top, then the rest of the fruits and finally a top layer of cake. Reserve leftover juice to pour over the cake when it is turned out. Press lightly down to squash the fruits into the cake, cover with cling film and put something heavy on top to weight it down. Chill overnight.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 4: </RecipeStepName>
+                    <RecipeStepDescription>Transfer to a plate, using the paper to help loosen and lift it out. Spoon enough of the reserved juice over to moisten (any left over can be used as a drink with fizzy water). Serve with a bought or homemade coulis or cream.</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+    </Category>
+    
+    <!-- List with time-savers -->
+    <Category name="Time-Savers"  icon="timesaver">
+        <RecipeInfo id="9">
+            
+            <RecipeTitle>Speedy spaghetti with clams</RecipeTitle>
+            
+            <RecipePicture>speedy_spaghetti</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>Italy</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>15-20 mins</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>2</RecipeSummaryPortions>
+                <RecipeSummaryCalories>385</RecipeSummaryCalories>
+                <RecipeSummaryDescription>This simple Italian pasta dish uses jars of clams in tomato sauce – a great time-saver</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>spaghetti</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>175 g</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>jars clams in tomato sauce</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>2 x 130 g</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>splash of wine, whatever you have</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity></RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>garlic clove, finely crushed</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>handful parsley</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>freshly grated parmesan, to serve (optional)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>Firstly, cook the pasta. Boil the kettle, then three-quarters fill a large pan with boiling water. Add some salt – the water will seethe – then coil in the spaghetti. Simmer, uncovered, for 12 mins or according to pack instructions.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>Meanwhile, to make the sauce, tip the clam sauce into a small pan, pour in the wine and add the garlic. Simmer for a few mins while you coarsely chop the parsley, then stir into the sauce and grind in a good amount of black pepper.</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>Drain the spaghetti and tip into a warmed bowl. Pour in the sauce and toss well. Serve at once, with grated parmesan scattered over if you like.</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+    </Category>
+
+    <!-- List with time-savers -->
+    <Category name="Other"  icon="other">
+        <RecipeInfo id="10">
+            
+            <RecipeTitle>Plateau of healthy food</RecipeTitle>
+            
+            <RecipePicture>other_recipe</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>World</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>Plateau of healthy food for every taste...</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>Step 1: </RecipeStepName>
+                    <RecipeStepDescription>n/a</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 2: </RecipeStepName>
+                    <RecipeStepDescription>n/a</RecipeStepDescription>
+                </RecipeStep>
+                <RecipeStep>
+                    <RecipeStepName>Step 3: </RecipeStepName>
+                    <RecipeStepDescription>n/a</RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+    </Category>
+
+</Settings>
