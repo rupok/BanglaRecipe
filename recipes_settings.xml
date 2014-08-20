@@ -105,7 +105,7 @@ Cook for 45 to 60 minutes, until the internal temperature of the roast is 130 to
     </Category>
     
     <!-- List with appetizers -->
-    <Category name="Appetizers" icon="appet">
+    <Category name="ভর্তা" icon="appet">
        <RecipeInfo id="2">
             
             <RecipeTitle>টমেটো সালাদ</RecipeTitle>
@@ -325,7 +325,7 @@ Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avoc
     
     
     <!-- List with soups -->
-    <Category name="Soups" icon="soup">
+    <Category name="মাছ-মাংস" icon="soup">
         <RecipeInfo id="5">
             
             <RecipeTitle>Spicy lentil soup with curry pinwheel rolls</RecipeTitle>
@@ -454,7 +454,7 @@ Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avoc
     </Category>
     
     <!-- List with vegeterian meals -->
-    <Category name="Vegetarian" icon="veg">
+    <Category name="শাক-সবজি" icon="veg">
         <RecipeInfo id="7">
             
             <RecipeTitle>Vegetarian casserole</RecipeTitle>
@@ -556,7 +556,7 @@ Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avoc
     </Category>
 
     <!-- List with deserts -->
-    <Category name="Deserts" icon="des">
+    <Category name="মিষ্টি জাতীয়" icon="des">
         <RecipeInfo id="8">
             
             <RecipeTitle>Summer berry terrine</RecipeTitle>
@@ -620,7 +620,7 @@ Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avoc
     </Category>
     
     <!-- List with time-savers -->
-    <Category name="Time-Savers" icon="timesaver">
+    <Category name="হালকা নাশতা" icon="timesaver">
         <RecipeInfo id="9">
             
             <RecipeTitle>Speedy spaghetti with clams</RecipeTitle>
@@ -682,7 +682,7 @@ Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avoc
     </Category>
 
     <!-- List with Other -->
-    <Category name="Other" icon="other">
+    <Category name="অন্যান্য" icon="other">
         <RecipeInfo id="10">
             
             <RecipeTitle>Plateau of healthy food</RecipeTitle>
