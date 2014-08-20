@@ -10,9 +10,9 @@
     <Category name="Main Courses"  icon="main">
         <RecipeInfo id="1">
             
-            <RecipeTitle>Apple Cranberry Stuffed Pork Roast</RecipeTitle>
+            <RecipeTitle>মুড়ি মাখা </RecipeTitle>
             
-            <RecipePicture>cranberry_pork</RecipePicture>
+            <RecipePicture>images/muri.jpg</RecipePicture>
             
             <RecipeSummary>
                 <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
@@ -108,9 +108,11 @@ Cook for 45 to 60 minutes, until the internal temperature of the roast is 130 to
     <Category name="Appetizers" icon="appet">
        <RecipeInfo id="2">
             
-            <RecipeTitle>Avocado, Tomato and Mango Salsa</RecipeTitle>
+            <RecipeTitle>আর মুড়ি </RecipeTitle>
             
-            <RecipePicture>avocado_salsa</RecipePicture>
+            <RecipePicture>
+            	https://re-enter-rupok.github.io/BanglaRecipe/images/muri.jpg
+            </RecipePicture>
             
             <RecipeSummary>
                 <RecipeSummaryOrigin>Cuba</RecipeSummaryOrigin>
