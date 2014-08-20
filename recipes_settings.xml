@@ -12,7 +12,9 @@
             
             <RecipeTitle>মুড়ি মাখা </RecipeTitle>
             
-            <RecipePicture>images/muri.jpg</RecipePicture>
+            <RecipePicture>
+            https://re-enter-rupok.github.io/BanglaRecipe/images/muri.jpg
+        	</RecipePicture>
             
             <RecipeSummary>
                 <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
