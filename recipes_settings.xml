@@ -7,7 +7,7 @@
    	</MainSettings>
     
     <!-- List with main courses -->
-    <Category name="Main Courses" icon="main">
+    <Category name="ভাত/পোলাও/খিচুড়ি" icon="main">
         <RecipeInfo id="1">
             
             <RecipeTitle>মুড়ি</RecipeTitle>
