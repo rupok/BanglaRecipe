@@ -183,7 +183,7 @@
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName চ্যাপা শুঁটকি</RecipeIngredientsName>
+                    <RecipeIngredientsName> চ্যাপা শুঁটকি</RecipeIngredientsName>
                     <RecipeIngredientsQuantity> ৪-৫টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
@@ -384,7 +384,7 @@
 
         <RecipeInfo id="301">
             
-            <RecipeTitle>Chicken noodle soup</RecipeTitle>
+            <RecipeTitle>Chicken noodle soup ভুয়া</RecipeTitle>
             
             <RecipePicture>http://dmb-team.com/assets/recipe/chicken_soup.png</RecipePicture>
             
