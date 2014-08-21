@@ -7,98 +7,74 @@
    	</MainSettings>
     
     <!-- List with main courses -->
-    <Category name="ভাত/পোলাও/খিচুড়ি" icon="main">
+    <Category name="ভাত/পোলাও" icon="main">
         <RecipeInfo id="1">
             
-            <RecipeTitle>মুড়ি</RecipeTitle>
+            <RecipeTitle>ভুনা খিচুড়ি</RecipeTitle>
             
             <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/muri.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>20 mins</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>60 mins</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>6-8</RecipeSummaryPortions>
-                <RecipeSummaryCalories>1200</RecipeSummaryCalories>
-                <RecipeSummaryDescription>The filling is essentially a sweet sour chutney, made with brown sugar, vinegar, dried apples and cranberries. Though pretty much any chutney would work in this recipe. The roast is “double butterflied”, filling applied, meat rolled up and roasted. The acidity of the chutney-ish filling tenderizes the pork roast from the inside. The original recipe calls for grilling the roast with soaked wood chips but you can easily make this roast in the oven. The recipe also uses dried apples, which can be a little hard to find. I think next time we may try making this with peeled, diced, fresh apples.</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>৩০ মিনিট </RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৩-৪</RecipeSummaryPortions>
+                <RecipeSummaryDescription>খিচুড়ি মূলত ডাল-চাল এর সমন্বয়ে তৈরি করা খাদ্য। ভুনা খিচুড়ি রান্না করার আগে ডাল-চালের মিশ্রণকে ভালভাবে ধুয়ে তেলে পিঁয়াজকুচি, লবণ ও মসলার সাথে ভেজে নিতে হয়। এরপরে পরিমাণমত পানি দিয়ে বসা ভাত-এর মতো রান্না করতে হয়। অনেকে না-ভেজে পানিতে চাল, ডাল, তেল, লবণ, মসলা একসাথে দিয়ে খিচুড়ি বসিয়ে দেন। খিচুড়িতে চাল-ডালের সাথে সব্জী-সেদ্ধ সহ রান্না করলে হয়ে যায় সব্জী খিচুড়ি। খিচুড়ি বাঙালিদের মাঝে অতি জনপ্রিয় খাদ্য।</RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>apple cider</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 cup</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>মুগ ডাল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>ভাজা ১ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>cider vinegar</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>তেজপাতা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>packed light brown sugar</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>3/4 cup</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>পোলাউর চাল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>shallot, peeled, thinly sliced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>লবঙ্গ </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>৪ টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>dried apples (packed)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 1/2 cups</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>ঘি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>অর্ধ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>dried cranberries</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>দারুচিনি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ সে. মি. ৩ টুকরা</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>grated fresh ginger</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 Tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>আদা (মিহিকুচি) </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ চা চা.</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>ground allspice</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>পানি (ফুটানো) </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>৫ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>cayenne pepper</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/8 to 1/4 teaspoon</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>pound boneless center-cut pork loin roast (short and wide - about 7-8 inches long and 4-5 inches wide)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 1/2</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>Kosher salt and freshly ground black pepper</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>লবণ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ টে. চা.</RecipeIngredientsQuantity>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Before starting on the pork, put the pork roast in the freezer for 30 minutes to make it easier to cut. While the pork is chilling, you can make the filling.</RecipeStepDescription>
+                    <RecipeStepName>প্রনালীঃ </RecipeStepName>
+                    <RecipeStepDescription>
+                        চাল ও ডাল ধুয়ে পানি ঝরান।
+                        ঘিয়ে আদা, তেজপাতা দিয়ে চুলায় দিন।
+                        চাল, ডাল, লবঙ্গ, দারচিনি দিয়ে ভাজুন।
+                        ভাজা হলে ফুটান পানি ও লবণ দিয়ে নাড়ুন।
+                        ফুটে উঠলে ঢেকে দিন।
+                        মৃদুজ্বালে ২০-২২ মিনিট ফুটান।
+                        বেরেস্তা ও সিদ্ধ ডিমের স্লাইস দিয়ে ভুনা খিচুড়ি সাজিয়ে পরিবেশন করুন।
+                        (হলুদ মরিচ দিয়ে ঝাল ভুনা খিচুড়ি করা যায়।) 
+                    </RecipeStepDescription>
                 </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Bring all the filling ingredients to simmer in medium saucepan over medium-high heat. Cover, reduce heat to low, and cook until apples are very soft, about 20 minutes. Strain through a fine-mesh sieve, reserving the liquid. Use a rubber spatula to press against the apple mixture in the sieve to extract as much liquid out as possible. Return liquid to saucepan and simmer over medium-high heat until reduced to 1/2 cup, about 5 minutes. Remove from heat, set aside and reserve this liquid for use as a glaze. Pulse apple mixture in food processor, about fifteen 1-second pulses. Set aside.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>Preheat oven to 350°F or prepare your grill for indirect heat. You will be "double-butterflying" the pork roast. Lay the roast down, fat side up. Insert the knife into the roast 1/2-inch horizontally from the bottom of the roast, along the long side of the roast. Make a long cut along the bottom of the roast, stopping 1/2 inch before the edge of the roast. You might find it easier to handle by starting at a corner of the roast. Open up the roast and continue to cut through the thicker half of the roast, again keeping 1/2 inch from the bottom. Repeat until the roast is an even 1/2-inch thickness all over when laid out. If necessary, pound the roast to an even thickness with a meat pounder.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 4: </RecipeStepName>
-                    <RecipeStepDescription>Season the inside of the roast well with salt and pepper. Spread out the filling on the roast, leaving a 1/2-inch border from the edges. Starting with the short side of the roast, roll it up very tightly. Secure with kitchen twine at 1-inch intervals. Season the outside of the roast generously with salt and pepper.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 5: </RecipeStepName>
-                    <RecipeStepDescription>Place roast on a rack in a roasting pan, place in oven, on the middle rack.
-
-You can also grill the roast, using indirect heat either gas or charcoal. If you are using charcoal, use about 5 pounds of coals, bank them to one side. Preheat the grill, covered. Wipe the grates with olive oil. Place roast, fat side up, on the side of the grill that has no coals underneath. Place the lid on the grill, with the vent directly over the roast. If you are grilling with gas, place all the burners on high for 15 minutes to heat the grates, brush grates with olive oil, turn off the middle burner, place roast fat-side up on middle burner. If you are grilling, turn roast half way through the cooking.
-
-Cook for 45 to 60 minutes, until the internal temperature of the roast is 130 to 135 degrees. Brush with half of the glaze and cook for 5 minutes longer. Remove the roast from the oven or grill. Place it on a cutting board. Tent it with foil to rest and keep warm for 15 minutes before slicing.</RecipeStepDescription>
-                </RecipeStep>
-                 <RecipeStep>
-                   <RecipeStepName>Step 6: </RecipeStepName>
-                   <RecipeStepDescription>Slice into 1/2-inch wide pieces, removing the cooking twine as you cut the roast. Serve with remaining glaze.</RecipeStepDescription>
-               </RecipeStep>
             </RecipeStepsList>
             
         </RecipeInfo>        
