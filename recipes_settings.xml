@@ -37,7 +37,7 @@
                     <RecipeIngredientsQuantity>২ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>লবঙ্গ </RecipeIngredientsName>
+                    <RecipeIngredientsName> লবঙ্গ </RecipeIngredientsName>
                     <RecipeIngredientsQuantity>৪ টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
@@ -81,13 +81,14 @@
         </RecipeInfo>        
     </Category>
     
-    <!-- List with appetizers -->
+    <!-- List with appetizers/ভর্তা  -->
     <Category name="ভর্তা" icon="appet">
-       <RecipeInfo id="2">
+        
+       <RecipeInfo id="200">
             
-            <RecipeTitle>টমেটো সালাদ</RecipeTitle>
+            <RecipeTitle>আলু ভর্তা </RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/avocado_salsa.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/vorta.jpg</RecipePicture>
             
             <RecipeSummary>
                 <RecipeSummaryOrigin>Cuba</RecipeSummaryOrigin>
@@ -162,203 +163,226 @@
             </RecipeStepsList>
             
         </RecipeInfo>
-       <RecipeInfo id="3">
-           
-           <RecipeTitle>Phyllo-Wrapped Asparagus with Prosciutto</RecipeTitle>
-           
-           <RecipePicture>http://dmb-team.com/assets/recipe/phyllo.png</RecipePicture>
-           
-           <RecipeSummary>
-               <RecipeSummaryOrigin>Italy</RecipeSummaryOrigin>
-               <RecipeSummaryPreparationTime>15 min</RecipeSummaryPreparationTime>
-               <RecipeSummaryCookingTime>30 min</RecipeSummaryCookingTime>
-               <RecipeSummaryPortions>10</RecipeSummaryPortions>
-               <RecipeSummaryCalories>653 kcal</RecipeSummaryCalories>
-               <RecipeSummaryDescription>Phyllo-Wrapped Asparagus with Prosciutto is an appetizer worthy of a special occasion. </RecipeSummaryDescription>
-           </RecipeSummary>
-           
-           <RecipeIngredientsList>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>thinly sliced prosciutto, cut into 30 long, thin strips</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>3 ounces</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>asparagus spears, trimmed</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>30</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>(14 x 9-inch) sheets frozen phyllo dough, thawed</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>10</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>Cooking spray</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>N/A</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-           </RecipeIngredientsList>
-           
-           <RecipeStepsList>
-               <RecipeStep>
-                   <RecipeStepName>Step 1: </RecipeStepName>
-                   <RecipeStepDescription>Preheat oven to 450°.</RecipeStepDescription>
-               </RecipeStep>
-               <RecipeStep>
-                   <RecipeStepName>Step 2: </RecipeStepName>
-                   <RecipeStepDescription>Wrap 1 prosciutto strip around each asparagus spear, barber polestyle. Place 1 phyllo sheet on a work surface (cover remaining phyllo to prevent drying); coat phyllo with cooking spray. Cut crosswise into thirds to form 3 (4 1/2 x 9inch) rectangles. Arrange 1 asparagus spear across 1 short end of each rectangle; roll up jelly-roll fashion. Arrange rolls on a baking sheet; coat rolls with cooking spray. Repeat procedure with remaining phyllo, asparagus, and cooking spray. Bake at 450° for 10 minutes or until phyllo is golden and crisp. Serve warm or at room temperature.
-</RecipeStepDescription>
-               </RecipeStep>
-               <RecipeStep>
-                   <RecipeStepName>Note: </RecipeStepName>
-                   <RecipeStepDescription>Make-ahead tip: Arrange assembled rolls on a baking sheet, coat with cooking spray, and cover; store in the fridge for up to four hours. Bake an hour or two before the party.</RecipeStepDescription>
-               </RecipeStep>
-           </RecipeStepsList>
-           
-       </RecipeInfo>
-        <RecipeInfo id="4">
-           
-           <RecipeTitle>Roast Chicken-Chipotle Nachos with Cilantro-Avocado Crema</RecipeTitle>
-           
-           <RecipePicture>http://dmb-team.com/assets/recipe/chicken_chipotle.png</RecipePicture>
-           
-           <RecipeSummary>
-               <RecipeSummaryOrigin>N/A</RecipeSummaryOrigin>
-               <RecipeSummaryPreparationTime>N/A</RecipeSummaryPreparationTime>
-               <RecipeSummaryCookingTime>N/A</RecipeSummaryCookingTime>
-               <RecipeSummaryPortions>8</RecipeSummaryPortions>
-               <RecipeSummaryCalories>N/A</RecipeSummaryCalories>
-               <RecipeSummaryDescription>Purchase a roast chicken from a deli; a 2-pound bird produces about 3 cups shredded meat.</RecipeSummaryDescription>
-           </RecipeSummary>
-           
-           <RecipeIngredientsList>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>chopped onion</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1/2 cup</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>olive oil</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1 tablespoon</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>cumin seeds</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-                <RecipeIngredient>
-                   <RecipeIngredientsName>dried oregano</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1/2 teaspoon</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>canned chipotle chilies, chopped</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1 to 2</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>tomato paste</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>2 tablespoons</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>white wine vinegar</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1 tablespoon</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>bite-size shreds skinned cooked chicken (see notes)</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>2 cups</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>corn tortilla chips (2 3/4 in. wide)</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>24</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>shredded jack cheese (6 oz.)</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>1 1/2 cups</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>Cilantro-Avocado Crema</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>N/A</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-               <RecipeIngredient>
-                   <RecipeIngredientsName>fresh cilantro leaves</RecipeIngredientsName>
-                   <RecipeIngredientsQuantity>24</RecipeIngredientsQuantity>
-               </RecipeIngredient>
-           </RecipeIngredientsList>
-           
-           <RecipeStepsList>
-               <RecipeStep>
-                   <RecipeStepName>Step 1: </RecipeStepName>
-                   <RecipeStepDescription> In a 2 1/2- to 3-quart pan over medium-high heat, frequently stir onion in olive oil until onion begins to brown, 4 to 7 minutes. Add cumin seeds and oregano; stir until fragrant, about 30 seconds. Add chilies, tomato paste, vinegar, and 1/2 cup water; bring to a boil, then reduce heat and simmer gently, stirring often, to blend flavors, about 5 minutes. Add chicken and stir until hot.</RecipeStepDescription>
-               </RecipeStep>
-               <RecipeStep>
-                   <RecipeStepName>Step 2: </RecipeStepName>
-                   <RecipeStepDescription>Meanwhile, arrange tortilla chips in a single layer in a 12- by 17-inch pan. Sprinkle equal portions of cheese on each chip and spoon about 1 tablespoon chicken mixture on top.
-</RecipeStepDescription>
-               </RecipeStep>
-               <RecipeStep>
-                   <RecipeStepName>Step 3: </RecipeStepName>
-                   <RecipeStepDescription>Bake in a 450° regular or convection oven until cheese begins to bubble, about 3 minutes. With a spatula, carefully transfer tortilla chips to a platter. Top each with 1 teaspoon Cilantro-Avocado Crema and garnish with a cilantro leaf. Serve warm.
-Cilantro-Avocado Crema. In a small bowl, mix 1/3 cup finely diced firm-ripe avocado, 2 tablespoons sour cream, 1 tablespoon finely chopped fresh cilantro leaves, 2 teaspoons lime juice, and 2 teaspoons milk. Add salt to taste. Makes about 1/2 cup.</RecipeStepDescription>
-               </RecipeStep>
-           </RecipeStepsList>
-           
-       </RecipeInfo>
-       </Category>
-    
-    
-    
-    <!-- List with soups -->
-    <Category name="মাছ-মাংস" icon="soup">
-        <RecipeInfo id="5">
+        
+
+        
+       <RecipeInfo id="201">
             
-            <RecipeTitle>Spicy lentil soup with curry pinwheel rolls</RecipeTitle>
+            <RecipeTitle>চ্যাপা শুঁটকি ভর্তা </RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/spicy_lentil_soup.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/chapa-shutki.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>Europe</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>20 mins.</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>25 mins.</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>4</RecipeSummaryPortions>
-                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription>Spicy lentil soup with curry pinwheel rolls</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১৫ মিনিট </RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>১৫ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>১০</RecipeSummaryPortions>
+                <RecipeSummaryCalories>N/A</RecipeSummaryCalories>
+                <RecipeSummaryDescription>প্রণালি: চ্যাপা তাওয়ায় টেলে নিয়ে পানি দিয়ে সেদ্ধ করে কাঁটা বেছে নিতে হবে। এবার কড়াইয়ে তেল, আদা, রসুন দিয়ে একটু পরে পেঁয়াজ দিয়ে নাড়তে হবে। পেঁয়াজ নরম হলে নামিয়ে মাছের সঙ্গে খুব ভালো করে মিলিয়ে নিতে হবে। আবার কড়াইয়ে থাকা অবস্থায় মাছ দিয়ে কষিয়ে ওপরে তেল উঠলে নামিয়ে নিতে হবে। দুভাবেই চ্যাপা শুঁটকি ভর্তা করা যায়। শুকনো মরিচ তেলে ভেজে উঠিয়ে সামান্য লবণ দিয়ে হাতে মেখে নিয়ে মাছের সঙ্গে মেলাতে হবে। </RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>curry paste</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName চ্যাপা শুঁটকি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ৪-৫টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>onion, chopped</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>পেঁয়াজ কুচি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ২ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>carrots, grated</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>রসুন কুচি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ টেবিল চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>red lentils</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>140 g.</RecipeIngredientsQuantity>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>আদা কুচি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> আধা চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>hot vegetable stock</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1l</RecipeIngredientsQuantity>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>সরিষার তেল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> সিকি কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>pack bread mix</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>500 g.</RecipeIngredientsQuantity>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>লবণ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> স্বাদমতো</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>শুকনো মরিচ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ৬-৭টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Heat oven to 220C/200C fan/gas 7. For the rolls, make up the bread mix following pack instructions, then roll out to a 30 x 40cm rectangle. Spread over the curry paste, then roll up, starting with the longest edge, like a roly poly. Cut into 8 slices and transfer to a lightly oiled baking sheet. Bake for 20-25 mins or until golden and cooked through.</RecipeStepDescription>
+                    <RecipeStepName>প্রণালি </RecipeStepName>
+                    <RecipeStepDescription>
+চ্যাপা তাওয়ায় টেলে নিয়ে পানি দিয়ে সেদ্ধ করে কাঁটা বেছে নিতে হবে। এবার কড়াইয়ে তেল, আদা, রসুন দিয়ে একটু পরে পেঁয়াজ দিয়ে নাড়তে হবে। পেঁয়াজ নরম হলে নামিয়ে মাছের সঙ্গে খুব ভালো করে মিলিয়ে নিতে হবে। আবার কড়াইয়ে থাকা অবস্থায় মাছ দিয়ে কষিয়ে ওপরে তেল উঠলে নামিয়ে নিতে হবে। দুভাবেই চ্যাপা শুঁটকি ভর্তা করা যায়। শুকনো মরিচ তেলে ভেজে উঠিয়ে সামান্য লবণ দিয়ে হাতে মেখে নিয়ে মাছের সঙ্গে মেলাতে হবে।
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>
+            
+        </RecipeInfo>
+        
+       <RecipeInfo id="202">
+           
+           <RecipeTitle>চিংড়ি শুঁটকি ভর্তা </RecipeTitle>
+           
+           <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/prawn-shutki.jpg</RecipePicture>
+           
+           <RecipeSummary>
+               <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+               <RecipeSummaryPreparationTime>15 min</RecipeSummaryPreparationTime>
+               <RecipeSummaryCookingTime>30 min</RecipeSummaryCookingTime>
+               <RecipeSummaryPortions>10</RecipeSummaryPortions>
+               <RecipeSummaryCalories>N/A</RecipeSummaryCalories>
+               <RecipeSummaryDescription>প্রণালি : প্রথমে চিংড়ি শুঁটকি ভাল করে ধুয়ে ভেজে একটি বাটিতে রাখতে হবে। ভাজা চিংড়ি শুঁটকি হামাম দিস্তা দিয়ে গুঁড়া করতে হবে। গুঁড়া করা চিংড়ি শুঁটকি, সরিষার তেল, পিঁয়াজ কুঁচি, রসুন কুঁচি, লবণ, কাঁচামরিচ ভাজা দিয়ে ভাল করে চটকিয়ে নিতে হবে।
+
+তৈরি হয়ে গেল চিংড়ি শুঁটকি ভর্তা। সুন্দর করে একটি ছোট মাটির প্লেটে সাজিয়ে পরিবেশন করুন। </RecipeSummaryDescription>
+           </RecipeSummary>
+           
+           <RecipeIngredientsList>
+               <RecipeIngredient>
+                   <RecipeIngredientsName>চিংড়ি শুঁটকি</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity> ৩০০ গ্রাম</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>সরিষার তেল</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>৩ টেবিল চামচ</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>পিঁয়াজ কুঁচি</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>৩ টেবিল চামচ</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>রসুন কুঁচি</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>১ টেবিল চামচ</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>লবণ</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>আধা চা চামচ</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+                <RecipeIngredient>
+                   <RecipeIngredientsName>কাঁচামরিচ ফালি</RecipeIngredientsName>
+                   <RecipeIngredientsQuantity>১০ টি</RecipeIngredientsQuantity>
+               </RecipeIngredient>
+           </RecipeIngredientsList>
+           
+           <RecipeStepsList>
+               <RecipeStep>
+                   <RecipeStepName>প্রণালি :</RecipeStepName>
+                   <RecipeStepDescription>
+প্রথমে চিংড়ি শুঁটকি ভাল করে ধুয়ে ভেজে একটি বাটিতে রাখতে হবে। ভাজা চিংড়ি শুঁটকি হামাম দিস্তা দিয়ে গুঁড়া করতে হবে। গুঁড়া করা চিংড়ি শুঁটকি, সরিষার তেল, পিঁয়াজ কুঁচি, রসুন কুঁচি, লবণ, কাঁচামরিচ ভাজা দিয়ে ভাল করে চটকিয়ে নিতে হবে।
+
+তৈরি হয়ে গেল চিংড়ি শুঁটকি ভর্তা। সুন্দর করে একটি ছোট মাটির প্লেটে সাজিয়ে পরিবেশন করুন।
+                   </RecipeStepDescription>
+               </RecipeStep>
+           </RecipeStepsList>
+           
+       </RecipeInfo>
+        
+       </Category>
+    
+    
+    
+    <!-- List with soups/মাছ মাংস / starts with id 300 -->
+    <Category name="মাছ-মাংস" icon="soup">
+        <RecipeInfo id="300">
+            
+            <RecipeTitle>সরষে ইলিশ </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/shorshe-ilish.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১৫ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>২০-৩০ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৫</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>সরষে ইলিশ অনেক ভাবে রান্না করা যায়। আজ আপনাদের জন্য রইল দুটি পদ্ধতি। তার আগে জেনে নেই প্রযোজনীয় উপকরণের নাম ও পরিমাণ।</RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>ইলিশ মাছ  </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১০ টুকরা (বড়)</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>সরিষা বাটা </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ টেবিল চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName> পিঁয়াজ বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ৩ টেবিল চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>রসুন বাটা </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১/২ চা চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>আদা বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১/২ চা চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>জিরা বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১/২ চা চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>হলুদ গুড়া</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১/২ চা চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>মরিচ গুড়া </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ চা চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName> লবন </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>পরিমান মত</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>কাঁচা মরিচ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ৫ টি (ফালি করা)</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>তেল </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>৪ টেবিল চামচ</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>পানি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> পরিমান মত</RecipeIngredientsQuantity>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>পদ্ধতি এক:</RecipeStepName>
+                    <RecipeStepDescription>
+কড়াই এ তেল গরম করে তাতে মাছ ও কাঁচামরিচ বাদে সব উপকরণ দিন।
+মসলা ভালো করে কষিয়ে নিন।
+দুই বার পানি দিয়ে পানি শুকিয়ে ফেলুন।
+তৃতীয় বার পানি দিয়ে তা ফুটে উঠলে তাতে মাছের টুকরা ছেড়ে দিন।
+ঢাকনা দিয়ে ঢেকে দিন।
+মাখা মাখা হয়ে গেলে তাতে কাঁচামরিচ দিয়ে নামিয়ে ফেলুন।
+                    </RecipeStepDescription>
                 </RecipeStep>
                  <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Meanwhile, make the soup. Fry the curry paste and onion in a large pan for 2 mins until fragrant. Stir in the carrots and lentils and mix to coat in the curry paste. Cook for 2 mins, then pour in the stock and simmer for 20 mins until the lentils are tender. Whizz with a stick blender until smooth, add some seasoning and serve with the curry pinwheels.</RecipeStepDescription>
+                    <RecipeStepName>পদ্ধতি দুই: ভাপে সরিষা ইলিশ </RecipeStepName>
+                    <RecipeStepDescription>
+ভাপে সরিষা ইলিশ করতে চাইলে সব উপকরণ এক সাথে মাখিয়ে অল্প পানি দিয়ে একটি টিন বা স্টিলের টিফিন বক্সে (একটি বাটি) দিতে হবে।
+কোনো পাত্রে পানি ফুটতে দিয়ে তার মধ্যে বসাতে হবে। খেয়াল রাখতে হবে যেন কোন ভাবেই পানি টিফিন বক্সে না ঢুকে।
+                     </RecipeStepDescription>
+                </RecipeStep>
+                 <RecipeStep>
+                    <RecipeStepName>পুনশ্চ: </RecipeStepName>
+                    <RecipeStepDescription>
+পদ্ধতি এক এর চেয়ে  পদ্ধতি দুই এ সময় অপেক্ষাকৃত বেশী লাগবে।
+পদ্ধতি এক এর ক্ষেত্রে কাঁচামরিচ দেবার সময় লেবু পাতা বা লেবুর উপরের সবুজ খোসা দিলে খুব সুন্দর ঘ্রাণ পাওয়া যাবে।
+                     </RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
         </RecipeInfo>
 
-        <RecipeInfo id="6">
+        <RecipeInfo id="301">
             
             <RecipeTitle>Chicken noodle soup</RecipeTitle>
             
