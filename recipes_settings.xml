@@ -692,3 +692,81 @@
     </Category> <!-- End অন্যান্য category --> 
 
 </Settings>
+
+
+
+
+
+<!--Single Recipe Sample-->
+<!-- 
+
+        <RecipeInfo id="00">
+            
+            <RecipeTitle> Recipe Name </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+
+
+--> 
