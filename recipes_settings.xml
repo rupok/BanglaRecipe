@@ -248,6 +248,71 @@
            
        </RecipeInfo>
         
+        
+<RecipeInfo id="103">
+            
+            <RecipeTitle> বেগুন টমেটো ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/begun-tometo_vorta.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                
+                <RecipeIngredient>
+                    <RecipeIngredientsName> বেগুন বড়- ১টা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পাকা টমেটো- ৪টা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ মিহি কুচি- আধা কাপা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনা মরিচ - ৪টা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেপাতা কুচি- ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - ৩/৪ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> চিনি - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরিষার তেল - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+               
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. বেগুন ধুয়েমুছে একটু তেল মাখিয়ে আগুনে পুড়িয়ে নিতে হবে।
+২. এরপর খোসা ছাড়িয়ে নিতে হবে।
+৩. টমেটো ধুয়ে পাঁচ মিনিট গরম পানিতে ছেড়ে সেদ্ধ করে নিতে হবে।
+৪. পানি থেকে নামিয়ে খোসা ছাড়িয়ে নিতে হবে।
+৫. বেগুন ও টমেটো ছোট ছোট টুকরা করে প্যানে চুলায় নেড়েচেড়ে শুকিয়ে নিতে হবে, আধা চা-চামচ লবণ ও চিনি দিয়ে শুকাতে হবে।
+৬. একটি বাটিতে পেঁয়াজ, মরিচ, ধনেপাতার সঙ্গে স্বাদমতো লবণ দিয়ে ভালোভাবে মেখে নিতে হবে।
+৭. তারপর বেগুন ও টমেটো একসঙ্গে মিশিয়ে সরিষার তেল দিয়ে মেখে নিতে হবে।
+৮. গরম ভাতের সঙ্গে ভর্তা পরিবেশন করতে হবে।
+                        
+               </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+
+        
        </Category> <!-- End ভর্তা category --> 
     
     
