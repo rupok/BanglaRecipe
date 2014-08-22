@@ -248,7 +248,7 @@
            
        </RecipeInfo>
         
-       </Category>
+       </Category> <!-- End ভর্তা category --> 
     
     
     
@@ -362,7 +362,7 @@
                 <RecipeSummaryCookingTime>৪০ মিনিট</RecipeSummaryCookingTime>
                 <RecipeSummaryPortions>৮</RecipeSummaryPortions>
                 <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription>Mary Cadogan's aromatic broth will warm you up on a winter's evening - it contains ginger, which is particularly good for colds, too</RecipeSummaryDescription>
+                <RecipeSummaryDescription>গরুর মাংস নানাভাবে রান্না করা যায় । এর মধ্যে ঝাল ভুনা অত্যধিক জনপ্রিয় ! রুটি, পরোটা, ভাত বা পোলাও যেকোন কিছুর সাথেই এটি খেতে অনেক মজার ! </RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
@@ -417,7 +417,7 @@
             </RecipeStepsList>
             
         </RecipeInfo>
-    </Category>
+    </Category> <!-- End মাছ-মাংস category --> 
     
     <!-- List with vegeterian meals -->
     <Category name="শাক-সবজি" icon="veg">
@@ -495,23 +495,23 @@
             </RecipeStepsList>
             
         </RecipeInfo>
-    </Category>
+    </Category>  <!-- End শাক-সবজি category --> 
 
     <!-- List with deserts -->
     <Category name="মিষ্টি জাতীয়" icon="des">
         <RecipeInfo id="400">
             
-            <RecipeTitle>Summer berry terrine</RecipeTitle>
+            <RecipeTitle>কাউনের পায়েস </RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/berry_terrine.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/kauner-payesh.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>n/a</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>25 - 35 mins.</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>6</RecipeSummaryPortions>
-                <RecipeSummaryCalories>603</RecipeSummaryCalories>
-                <RecipeSummaryDescription>A refreshing and colourful dinner party desert</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>২০ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>5</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>কাউনের পায়েস খেতে খুবই মজার। আপনারা বাসায় বানিয়ে উপভোগ করুন পরিবার ও বন্ধুদের সাথে।</RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
@@ -520,227 +520,175 @@
                     <RecipeIngredientsQuantity>450-500g/1lb-1lb 2oz</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>mixed berries (include strawberries and red and blackcurrants, if possible)
+                    <RecipeIngredientsName>দুধ
 </RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 kg</RecipeIngredientsQuantity>
+                    <RecipeIngredientsQuantity>দেড় লিটার </RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>golden caster sugar</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>100 g</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> কাউনের চাল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>আধা কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>cassis (blackcurrant liqueur), optional</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>তেজপাতা, এলাচি, দারচিনি, হরেক রকম বাদামভাজা, কিশমিশ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>স্বাদমত </RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>coulis, to serve </RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> চিনি </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২৫০ গ্রাম </RecipeIngredientsQuantity>
                 </RecipeIngredient>
 
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>For the compote, hull strawberries and halve or slice if large. Put currants and blackberries (if using) into a pan with the sugar and 3 tbsp water and bring to the boil, stirring. Simmer for 5 mins until softened, add remaining fruits and cook for a couple more mins. Remove from the heat, add cassis, if using, then cool.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Line the base of a 1kg loaf tin with a long strip of double thickness baking parchment, allowing some overhang at the narrow ends to make lifting easier. Slice the cake into long thin strips to allow for 3 layers. Use offcuts for 'patching'.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>Cover the base of the tin with one layer of cake, trimming offcuts to fit snugly. Spoon in half the fruits with some juice on top. Fit another layer of cake on top, then the rest of the fruits and finally a top layer of cake. Reserve leftover juice to pour over the cake when it is turned out. Press lightly down to squash the fruits into the cake, cover with cling film and put something heavy on top to weight it down. Chill overnight.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 4: </RecipeStepName>
-                    <RecipeStepDescription>Transfer to a plate, using the paper to help loosen and lift it out. Spoon enough of the reserved juice over to moisten (any left over can be used as a drink with fizzy water). Serve with a bought or homemade coulis or cream.</RecipeStepDescription>
+                    <RecipeStepName>প্রণালি:  </RecipeStepName>
+                    <RecipeStepDescription>১. চাল ধুয়ে পানি ঝরিয়ে নিন। 
+২. বাদামভাজা আধভাঙা করে নিন।
+৩. দুধে তেজপাতা, এলাচি ও দারচিনি দিয়ে জ্বাল দিয়ে ঘন করে ১ লিটারের মতো করে নিন। 
+৪. এরপর কাউনের চাল দিন। সেদ্ধ হলে কিশমিশ দিয়ে কষিয়ে চিনি ও বাদাম দিন। কিশমিশ ছড়িয়ে নামান।
+                    </RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
         </RecipeInfo>
-    </Category>
+    </Category> <!-- End মিষ্টি জাতীয় category --> 
     
     <!-- List with time-savers -->
     <Category name="হালকা নাশতা" icon="timesaver">
         <RecipeInfo id="500">
             
-            <RecipeTitle>Speedy spaghetti with clams</RecipeTitle>
+            <RecipeTitle>রুটি দিয়ে শরমা </RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/speedy_spaghetti.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/ruti-swarma.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>Italy</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>15-20 mins</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>2</RecipeSummaryPortions>
-                <RecipeSummaryCalories>385</RecipeSummaryCalories>
-                <RecipeSummaryDescription>This simple Italian pasta dish uses jars of clams in tomato sauce – a great time-saver</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>১৫ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৩</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>ঝটপট রুটি দিয়ে শর্মা বানাতে মাংস ধুয়ে পাতলা করে স্লাইস করে নিন। একটি পাত্রে স্লাইস করা মাংস টক দই, কাবাব মশলা, জিরা, গোলমরিচ গুঁড়া, আদা-রসুন, লবণ মেখে দশ মিনিট মেরিনেড করে রাখুন। এবার চুলায় প্যান বসিয়ে তেল দিন। তেল গরম হলে মেরিনেট করা মাংস দিয়ে ভালো করে নাড়াচাড়া করে এপিঠ-ওপিঠ দশ মিনিট ভাজা ভাজা করে রান্না করে শসা-টমেটো, পিঁয়াজ, কাঁচামরিচ কুচি দিয়ে আবার ভালো করে নেড়ে নামিয়ে রাখুন। এবার রুটির মধ্যে মাখন মেখে ভাজা মাংসের পুর ভরে গোল গোল রোল বানিয়ে সুন্দর করে পরিবেশন করুন মজার রুটি দিয়ে শরমা।</RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>spaghetti</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>175 g</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>মাংস</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২৫০ গ্রাম</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>jars clams in tomato sauce</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 x 130 g</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>রুটি </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>৫টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>splash of wine, whatever you have</RecipeIngredientsName>
+                    <RecipeIngredientsName>দুই চা চামচ আদা-রসুন বাটা </RecipeIngredientsName>
                     <RecipeIngredientsQuantity/>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>garlic clove, finely crushed</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>জিরা গুঁড়া এক চা চামচ</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>handful parsley</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>পিঁয়াজ মিহি কুচি এক টেবিল চামচ</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>freshly grated parmesan, to serve (optional)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>টক দই আধা কাপ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>ধনেপাতা কুচি তিন/চারটি</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>কাবাব মশলা এক চা চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>গোলমরিচ গুঁড়া আধা চা চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>মাখন এক টেবিল চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>তেল তিন টেবিল চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>শসা কিউব একটি</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>টমেটো কিউব একটি</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>গাজর কিউব একটি</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>লবণ স্বাদমতো</RecipeIngredientsName>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Firstly, cook the pasta. Boil the kettle, then three-quarters fill a large pan with boiling water. Add some salt – the water will seethe – then coil in the spaghetti. Simmer, uncovered, for 12 mins or according to pack instructions.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Meanwhile, to make the sauce, tip the clam sauce into a small pan, pour in the wine and add the garlic. Simmer for a few mins while you coarsely chop the parsley, then stir into the sauce and grind in a good amount of black pepper.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>Drain the spaghetti and tip into a warmed bowl. Pour in the sauce and toss well. Serve at once, with grated parmesan scattered over if you like.</RecipeStepDescription>
+                    <RecipeStepName>প্রণালীঃ </RecipeStepName>
+                    <RecipeStepDescription>মাংস ধুয়ে পাতলা করে স্লাইস করে নিন। একটি পাত্রে স্লাইস করা মাংস টক দই, কাবাব মশলা, জিরা, গোলমরিচ গুঁড়া, আদা-রসুন, লবণ মেখে দশ মিনিট মেরিনেড করে রাখুন। এবার চুলায় প্যান বসিয়ে তেল দিন। তেল গরম হলে মেরিনেট করা মাংস দিয়ে ভালো করে নাড়াচাড়া করে এপিঠ-ওপিঠ দশ মিনিট ভাজা ভাজা করে রান্না করে শসা-টমেটো, পিঁয়াজ, কাঁচামরিচ কুচি দিয়ে আবার ভালো করে নেড়ে নামিয়ে রাখুন। এবার রুটির মধ্যে মাখন মেখে ভাজা মাংসের পুর ভরে গোল গোল রোল বানিয়ে সুন্দর করে পরিবেশন করুন মজার রুটি দিয়ে শরমা।</RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
         </RecipeInfo>
-    </Category>
+    </Category> <!-- End হালকা নাশতা category --> 
 
     <!-- List with Other -->
     <Category name="অন্যান্য" icon="other">
         <RecipeInfo id="600">
             
-            <RecipeTitle>Plateau of healthy food</RecipeTitle>
+            <RecipeTitle>চিকেন পটেটো সালাদ</RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/other_recipe.jpg</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/chicken-potato-salad.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>World</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>৫ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>5-6</RecipeSummaryPortions>
                 <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription>Plateau of healthy food for every taste...</RecipeSummaryDescription>
+                <RecipeSummaryDescription>চিকেন পটেটো সালাদ অত্যন্ত সুস্বাদু ও স্বাস্থ্যকর এক ধরনের সালাদ !</RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>চিকেন এক কাপ (বুকের মাংস লম্বা লম্বা করে কেটে নিন)</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>আলু ১০০ গ্রাম</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>পেঁয়াজ কিউব করে কাটা আধা কাপ</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>ধনেপাতা কুচি এক টেবিল চামচ</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>কাঁচামরিচ কুচি আধা চা চামচ</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>লেবুর রস ২ টবিল চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>বিট লবণ স্বাদ অনুযায়ী</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>চাট মসলা আধা চা চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>আদা বাটা আধা চা চামচ</RecipeIngredientsName>
+                </RecipeIngredient>
+                 <RecipeIngredient>
+                    <RecipeIngredientsName>সয়াসস এক চা চামচ ও সস ২ টেবিল চামচ</RecipeIngredientsName>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription> মুরগির মাংস লম্বা লম্বা করে কেটে আদা বাটা, সয়াসস ও বিট লবণ দিয়ে এক ঘণ্টা রেখে দিন। আলুও লম্বা লম্বা করে কেটে ধুয়ে পানিতে ভিজিয়ে কিছুক্ষণ রেখে দিন। তারপর আলুর পানি ঝরিয়ে লবণ মাখিয়ে ডুবোতেলে ভেজে তুলুন। একটি ফ্রাইপ্যানে মাখানো মুরগি সামান্য তেলে হালকা করে ভেজে একটি সার্ভিং ডিশে ঢেলে একে একে তাতে সব উপকরণ মেখে সাজিয়ে পরিবেশন করুন।</RecipeStepDescription>
                 </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
-                </RecipeStep>
-            </RecipeStepsList>
+            </RecipeStepsList>   
             
         </RecipeInfo>
-         <RecipeInfo id="11">
-            
-            <RecipeTitle>Plateau of healthy food 2</RecipeTitle>
-            
-            <RecipePicture>http://dmb-team.com/assets/recipe/other_recipe.jpg</RecipePicture>
-            
-            <RecipeSummary>
-                <RecipeSummaryOrigin>World</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
-                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription>Plateau of healthy food for every taste...</RecipeSummaryDescription>
-            </RecipeSummary>
-            
-            <RecipeIngredientsList>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>n/a</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-            </RecipeIngredientsList>
-            
-            <RecipeStepsList>
-                <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>n/a</RecipeStepDescription>
-                </RecipeStep>
-            </RecipeStepsList>
-            
-        </RecipeInfo>
-    </Category>
+    </Category> <!-- End অন্যান্য category --> 
 
 </Settings>
