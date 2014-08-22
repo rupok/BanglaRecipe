@@ -84,81 +84,49 @@
     <!-- List with appetizers/ভর্তা  -->
     <Category name="ভর্তা" icon="appet">
         
-       <RecipeInfo id="200">
+       <RecipeInfo id="100">
             
             <RecipeTitle>আলু ভর্তা </RecipeTitle>
             
             <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/vorta.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>Cuba</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>15 mins</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>30 mins</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>10</RecipeSummaryPortions>
-                <RecipeSummaryCalories>500</RecipeSummaryCalories>
-                <RecipeSummaryDescription>Looking for a refreshing salsa for a warm summer evening? This is our favorite. Serve with tortilla chips. This is also fantastic served on white fish. I often use a canned jalapeno instead of fresh.</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১৫ মিনিট </RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>১০ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৪</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>আলু সবজি হিসেবে অত্যন্ত জনপ্রিয়। স্বাদে তো বটেই পুষ্টিগুণেও পিছিয়ে নেই আলু। এতে রয়েছে শর্করা, আঁশ, খনিজ উপাদান, ভিটামিন ও উদ্ভিজ্জ প্রোটিন। সারা বিশ্বে আলু বিভিন্ন ভাবে খাওয়া হয়। তরকারি, ভাজি, ভর্তা, সালাদ, চিপস, ফ্রেঞ্চ ফ্রাই ইত্যাদি। তবে বাঙালিদের কাছে আলু ভর্তাই সবচেয়ে প্রিয় ! </RecipeSummaryDescription>
+   
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>mango - peeled, seeded and diced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>আলু</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>৩টা বড় সাইজের</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>avocado - peeled, pitted, and diced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> শুকনা মরিচ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ টা মাঝারি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>tomatoes - diced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>4</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>পেঁয়াজ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ টা কুঁচানো</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>jalapeno pepper - seeded and minced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>chopped fresh cilantro</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/2</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>garlic - minced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>salt</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 teaspoon</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>fresh lime juice</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 tablespoons</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>chopped red onion</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/4 cup</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                 <RecipeIngredient>
-                    <RecipeIngredientsName>olive oil</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>3 tablespoons</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>সরিষার তেল ও লবন </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>পরিমাণমত </RecipeIngredientsQuantity>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Bring a large pot of lightly salted water to a boil. Add ziti pasta, and cook until al dente, about 8 minutes; drain.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>In a large skillet, brown onion and ground beef over medium heat. Add spaghetti sauce, and simmer 15 minutes.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>Preheat the oven to 350 degrees F (175 degrees C). Butter a 9x13 inch baking dish. Layer as follows: 1/2 of the ziti, Provolone cheese, sour cream, 1/2 sauce mixture, remaining ziti, mozzarella cheese and remaining sauce mixture. Top with grated Parmesan cheese.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 4: </RecipeStepName>
-                    <RecipeStepDescription>Bake for 30 minutes in the preheated oven, or until cheeses are melted.
-                    </RecipeStepDescription>
+                    <RecipeStepName>প্রস্তুত প্রণালীঃ </RecipeStepName>
+                    <RecipeStepDescription>
+১. আলু ভাল করে ধুয়ে ৪ ভাগ করে নিয়ে পানি সহকারে সসপ্যানে করে চুলায় দিন। সিদ্ধ হলে নামিয়ে ঠান্ডা হতে দিন। 
+২. পেঁয়াজ কুচি ও শুকনা মরিচ অল্প তেলে ভাজুন। পেঁয়াজ বাদামী রং হলে নামিয়ে নিন।
+৩. এবার আলুর খোসা ছাড়িয়ে পিষনিতে পরিমানমতো লবন ও সরিষার তেল, পেঁয়াজ, মরিচ দিয়ে মিহি করে পিষুন।
+৪. ভর্তা হয়ে গেলে হাতে নিয়ে ছোট ছোট ৬ টা গোল বল করে বাটিতে করে পরিবেশন করুন।</RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
@@ -166,7 +134,7 @@
         
 
         
-       <RecipeInfo id="201">
+       <RecipeInfo id="101">
             
             <RecipeTitle>চ্যাপা শুঁটকি ভর্তা </RecipeTitle>
             
@@ -223,7 +191,7 @@
             
         </RecipeInfo>
         
-       <RecipeInfo id="202">
+       <RecipeInfo id="102">
            
            <RecipeTitle>চিংড়ি শুঁটকি ভর্তা </RecipeTitle>
            
@@ -286,7 +254,7 @@
     
     <!-- List with soups/মাছ মাংস / starts with id 300 -->
     <Category name="মাছ-মাংস" icon="soup">
-        <RecipeInfo id="300">
+        <RecipeInfo id="200">
             
             <RecipeTitle>সরষে ইলিশ </RecipeTitle>
             
@@ -382,72 +350,69 @@
             
         </RecipeInfo>
 
-        <RecipeInfo id="301">
+        <RecipeInfo id="201">
             
-            <RecipeTitle>Chicken noodle soup ভুয়া</RecipeTitle>
+            <RecipeTitle>গরুর ঝাল মাংস ভুনা</RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/chicken_soup.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/beef-bhuna.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>UK</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>10 mins.</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>30 mins.</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>2</RecipeSummaryPortions>
-                <RecipeSummaryCalories>217</RecipeSummaryCalories>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>২০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>৪০ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৮</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
                 <RecipeSummaryDescription>Mary Cadogan's aromatic broth will warm you up on a winter's evening - it contains ginger, which is particularly good for colds, too</RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>chicken or vegetable stock (or Miso soup mix)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>900 ml.</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>গরুর মাংস </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>হাড়সহ ছোট ছোট টুকরা করা ১ কেজি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>boneless, skinless chicken breast, about 175g/6oz</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>আদাবাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ টেবিল চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>chopped fresh root ginger</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>রসুন বাটা </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>২ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>garlic clove, finely chopped</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>হলুদ গুঁড়া</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>rice or wheat noodles</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>50 g.</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>মরিচ গুঁড়া</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ টেবিল চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>sweetcorn, canned or frozen</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>ধনে গুড়া</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ টেবিল চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>mushrooms, thinly sliced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2-3</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>লবণ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> স্বাদ অনুযায়ী</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>spring onions, shredded</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>গরমমসলা এলাচ, দারুচিনি, লবঙ্গ </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>কয়েকটি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>soy sauce, plus extra for serving</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 tbsp</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>mint or basil leaves and a little shredded chilli (optional), to serve</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>n/a</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>সয়াবিন তেল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Pour the stock into a pan and add the chicken, ginger and garlic. Bring to the boil, then reduce the heat, partly cover and simmer for 20 mins, until the chicken is tender. Remove the chicken to a board and shred into bite-size pieces using a couple of forks</RecipeStepDescription>
-                </RecipeStep>
-                 <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Return the chicken to the stock with the noodles, corn, mushrooms, half the spring onions and the soy sauce. Simmer for 3-4 mins until the noodles are tender. Ladle into two bowls and scatter over the remaining spring onions, herbs and chilli shreds if using. Serve with extra soy sauce for sprinkling.</RecipeStepDescription>
+                    <RecipeStepName>প্রণালীঃ </RecipeStepName>
+                    <RecipeStepDescription>
+১. প্রথমে একটি পাতিলে তেল গরম করে তাতে পেঁয়াজ, তেজপাতা এবং গরম মসলা দিয়ে অল্প ভেজে তাতে একে একে আদা ও রসুনবাটা, হলুদ গুঁড়া, মরিচ গুঁড়া,ধনে গুড়া, লবণ এবং গরুর মাংস দিয়ে ভালোভাবে কষিয়ে তাতে পানি দিন। 
+২. মাংস সিদ্ধ না হওয়া পর্যন্ত রান্না করুন। 
+৩. যখন মাংস ভুনে তেলের ওপর আসবে তখন নামিয়ে দিন। 
+
+এটি ভাত, পোলাও ও পরাটা দিয়ে খেতে খুব মজা।</RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
@@ -456,100 +421,76 @@
     
     <!-- List with vegeterian meals -->
     <Category name="শাক-সবজি" icon="veg">
-        <RecipeInfo id="7">
+        <RecipeInfo id="300">
             
-            <RecipeTitle>Vegetarian casserole</RecipeTitle>
+            <RecipeTitle>পাঁচ ফোড়ন দিয়ে সবজি </RecipeTitle>
             
-            <RecipePicture>http://dmb-team.com/assets/recipe/vegetarian_casserole.png</RecipePicture>
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/pachforon-shobji.jpg</RecipePicture>
             
             <RecipeSummary>
-                <RecipeSummaryOrigin>France</RecipeSummaryOrigin>
-                <RecipeSummaryPreparationTime>10 mins.</RecipeSummaryPreparationTime>
-                <RecipeSummaryCookingTime>40 mins.</RecipeSummaryCookingTime>
-                <RecipeSummaryPortions>4</RecipeSummaryPortions>
-                <RecipeSummaryCalories>216</RecipeSummaryCalories>
-                <RecipeSummaryDescription>A Mediterranean one-pot stew with peppers, courgettes, lentils, sweet smoked paprika and thyme</RecipeSummaryDescription>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>১০ মিনিট</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>২০ মিনিট</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>৫</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription>প্রণালি : 
+সব সবজি ধুয়ে কিউব করে কেটে নিন। চুলায় পাত্র দিয়ে তেল দিন। তেল গরম হলে পাঁচফোড়ন, আদাবাটা ও সবজি দিয়ে নাড়া দিন। এবার পেঁয়াজ কুচি, হলুদ, মরিচ দিন। মাঝে মাঝে নাড়ুন প্রয়োজন হলে অল্প পানি দিন। সবজি সিদ্ধ হলে জিরা গুঁড়া দিয়ে নামিয়ে নিন।</RecipeSummaryDescription>
             </RecipeSummary>
-            
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>olive or rapeseed oil</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> পেঁপে+আলু (কিউব)</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>onion, finely chopped</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> সিম+ বরবরটি+পটল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>আধা কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>garlic cloves, sliced</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> গাজর</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>আধা কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>smoked paprika</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> পেঁয়াজ কুচি</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>cumin</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1/2 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>আদা বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>dried thyme</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1 tbsp</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>হলুদ বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>আধা চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>carrots, sliced (about 200g)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>3</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> মরিচ বাটা</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>sticks celery, finely sliced (about 120g)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> পাঁচফোড়ন</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ১ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>red pepper, chopped</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName> কাঁচামরিচ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> ৪-৫টি</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>yellow pepper, chopped</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>1</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>লবণ</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> স্বাদমতো</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>tins tomatoes or peeled cherry tomatoes</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2 x 400 g.</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>জিরা ভাজা গুঁড়া </RecipeIngredientsName>
+                    <RecipeIngredientsQuantity>১ চা চামচ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>vegetable stock cube (we used 1 Knorr vegetable stock pot)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>250 ml</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>courgettes, sliced thickly (about 300 g)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>sprigs fresh thyme</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>2</RecipeIngredientsQuantity>
-                </RecipeIngredient>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>cooked lentils (we used Merchant Gourmet ready-to-eat Puy lentils)</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>250 g</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>সয়াবিন তেল</RecipeIngredientsName>
+                    <RecipeIngredientsQuantity> আধা কাপ</RecipeIngredientsQuantity>
                 </RecipeIngredient>
             </RecipeIngredientsList>
             
             <RecipeStepsList>
                 <RecipeStep>
-                    <RecipeStepName>Step 1: </RecipeStepName>
-                    <RecipeStepDescription>Heat the oil in a large, heavy-based pan. Add the onions and cook gently for 5 – 10 mins until softened.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 2: </RecipeStepName>
-                    <RecipeStepDescription>Add the garlic, spices, dried thyme, carrots, celery and peppers and cook for 5 minutes.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 3: </RecipeStepName>
-                    <RecipeStepDescription>Add the tomatoes, stock, courgettes and fresh thyme and cook for 20 - 25 minutes.</RecipeStepDescription>
-                </RecipeStep>
-                <RecipeStep>
-                    <RecipeStepName>Step 4: </RecipeStepName>
-                    <RecipeStepDescription>Take out the thyme sprigs. Stir in the lentils and bring back to a simmer. Serve with wild and white basmati rice, mash or quinoa.</RecipeStepDescription>
+                    <RecipeStepName>প্রণালি :  </RecipeStepName>
+                    <RecipeStepDescription>সব সবজি ধুয়ে কিউব করে কেটে নিন। চুলায় পাত্র দিয়ে তেল দিন। তেল গরম হলে পাঁচফোড়ন, আদাবাটা ও সবজি দিয়ে নাড়া দিন। এবার পেঁয়াজ কুচি, হলুদ, মরিচ দিন। মাঝে মাঝে নাড়ুন প্রয়োজন হলে অল্প পানি দিন। সবজি সিদ্ধ হলে জিরা গুঁড়া দিয়ে নামিয়ে নিন।</RecipeStepDescription>
                 </RecipeStep>
             </RecipeStepsList>
             
@@ -558,7 +499,7 @@
 
     <!-- List with deserts -->
     <Category name="মিষ্টি জাতীয়" icon="des">
-        <RecipeInfo id="8">
+        <RecipeInfo id="400">
             
             <RecipeTitle>Summer berry terrine</RecipeTitle>
             
@@ -622,7 +563,7 @@
     
     <!-- List with time-savers -->
     <Category name="হালকা নাশতা" icon="timesaver">
-        <RecipeInfo id="9">
+        <RecipeInfo id="500">
             
             <RecipeTitle>Speedy spaghetti with clams</RecipeTitle>
             
@@ -684,7 +625,7 @@
 
     <!-- List with Other -->
     <Category name="অন্যান্য" icon="other">
-        <RecipeInfo id="10">
+        <RecipeInfo id="600">
             
             <RecipeTitle>Plateau of healthy food</RecipeTitle>
             
