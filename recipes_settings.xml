@@ -261,7 +261,7 @@
                 <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
                 <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
                 <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+                <RecipeSummaryDescription> বেগুন এবং টমেটো দুটোই খুব মজাদার সবজি। বেগুন- টমেটোর ভর্তাও খুব সুস্বাদু। এর সাথে পেঁয়াজ, শুকনা মরিচ, ধনে পাতা, চিনি যোগ করলে ভর্তা হয় আরও লোভনীয়।  </RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
@@ -311,6 +311,339 @@
             </RecipeStepsList>   
             
         </RecipeInfo>
+        
+        
+<RecipeInfo id="104">
+            
+            <RecipeTitle> চ্যাপা শুটকির বাগার ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/chapa-shutki.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> শুটকি মাছের মধ্যে অন্যতম জনপ্রিয় হল চ্যাপা শুটকি। চ্যাপা শুটকির ভর্তার স্বাদের কথা বলাই বাহুল্য। তবে শুটকি খুব ভালোভাবে পরিষ্কার করে তারপর ভর্তা করা উচিত।  </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> চ্যাপা শুঁটকি - ১০টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> দেশি পেঁয়াজ - ১০টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> দেশি রসুন - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনা মরিচ - ১২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সয়াবিন তেল - সিকি কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                    </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. শুঁটকি ১০-১৫ মিনিট ভিজিয়ে রেখে মাথা ও আঁশ ছাড়িয়ে পেট পরিষ্কার করে ধুয়ে নিতে হবে। 
+২. শুঁটকির পানি নিংড়ে সব উপকরণ একসঙ্গে মিশিয়ে পাটায় মসৃণ করে বাটতে হবে।
+৩. ফ্রাইপ্যানে তেল গরম করে বাটা উপকরণগুলো অল্প আঁচে পাঁচ মিনিট নেড়েচেড়ে ভাজতে হবে।
+৪. তেল ওপরে এলে ভর্তা চুলা থেকে নামিয়ে বাটিতে পরিবেশন করতে হবে।
+
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+        
+ <RecipeInfo id="105">
+            
+            <RecipeTitle> চিংড়ি ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/chingri-vorta.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> আমাদের পছন্দের খাদ্য তালিকায় চিংড়ি অন্যতম। সেটা রান্নাই হোক কিংবা ভর্তা। চিংড়ির সাথে শুকনা মরিচ, পেঁয়াজ, রসুন, কাঁচামরিচ যোগ করে তৈরি করা ভর্তা স্বাদে হয় অতুলনীয়।  </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ছোট চিংড়ি - ২৫০ গ্রাম </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুন - ২টি আস্ত </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনো লাল মরিচ - ৫/৬টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচামরিচ - ৫/৬টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদ অনুযায়ী </RecipeIngredientsName>
+                </RecipeIngredient>
+                
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. প্রথমে চিংড়ি বেছে ভালো করে ধুয়ে নিতে হবে।
+২. পেঁয়াজ এবং রসুন ছোট ছোট টুকরো করে নিতে হবে।
+৩. এখন একটি প্যানে তেল গরম করে তাতে প্রথমে চিংড়ি লবণসহ কিছুক্ষণ ভেজে তাতে টুকরো করা রসুন, পেঁয়াজ, কাঁচামরিচ ও শুকনো মরিচ দিয়ে ভালো করে ভাজা ভাজা করে শিলপাটায় মিহি করে বেটে নিতে হবে।
+ 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+ <RecipeInfo id="106">
+            
+            <RecipeTitle> কাঁঠালের বিচি-চিংড়ি ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/kathaler-bichi-chingri_vorta.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> আমাদের জাতীয় ফল কাঁঠালের জনপ্রিয়তা শুধু এর রসালো গুনের জন্য না, এর বিচি দিয়ে রান্না করা যায় মজাদার সব খাবার। এমনকি কাঁঠালের বিচির ভর্তাও খুব জনপ্রিয়। আর এর সাথে যদি মেশানো হয় চিংড়ি মাছ তাহলে তো কথাই নেই। এর সাথে আরও প্রয়োজন রসুন, পেঁয়াজ, শুকনা মরিচ। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁঠালের বিচি - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> চিংড়িমাছ - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনো মরিচ - ৭-৮ টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুন কোয়া - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদ - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরষের তেল - ২ টিবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ কুঁচি - আধা কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+                
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. কাঁঠালের বিচি ছিলে ঘষে পরিষ্কার করে নিতে হবে। 
+২. চিংড়ি মাছ বেছে পরিষ্কার করে হলুদ ও লবণ দিয়ে সেদ্ধ করে নিতে হবে। 
+৩. এবার বিচি খুব ভালো করে সিদ্ধ করতে হবে। 
+৪. অন্য একটি পাত্রে তেল দিয়ে শুকনো মরিচ ভেজে তুলে ঐ তেলে রসুন-পেঁয়াজ দিয়ে নরম করে ভেজে চিংড়ি দিয়ে একটু নাড়াচাড়া করে নামিয়ে নিতে হবে। 
+৫. এবার বিচি পাটায় বেটে নিয়ে চিংড়ি মাছ ছেঁচে আধা ভাঙা করে তেল-পেঁয়াজসহ সব একসঙ্গে মাখিয়ে ভর্তা তৈরি করতে হবে।
+ 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+        
+<RecipeInfo id="107">
+            
+            <RecipeTitle> লাউয়ের খোসা ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/lauer-khosha-vorta.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> শীতকালীন সবজির মধ্যে লাউ অন্যতম। লাউ দিয়ে যেমন মজাদার রান্না করা যায় তেমনি লাউয়ের খোসাও কিন্তু ফেলনা নয়। লাউয়ের খোসার সাথে পেঁয়াজ, শুকনা মরিচ, ধনে পাতা দিয়ে তৈরি করা যায় মুখরোচক ভর্তা। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লাউয়ের খোসা - ৩কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনা মরিচ পোড়ানো - ৪ টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ কুচি - সিকি কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরষের তেল - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেপাতা কুচি - সিকি কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ	- পরিমাণ মত </RecipeIngredientsName>
+                </RecipeIngredient>
+                            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. লাউয়ের খোসা ধুয়ে পানি দিয়ে সেদ্ধ করে নিতে হবে।
+২. তেলের মধ্যে লাউয়ের খোসা ভাজতে হবে।
+৩. শুকনা মরিচ, পেঁয়াজ ভাজতে হবে।
+৪. এবার লাউয়ের খসা, শুকনা মরিচ, পেঁয়াজ, ধনে পাতা একসঙ্গে পাটায় মিহি করে বাটতে হবে।
+                        
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="108">
+            
+            <RecipeTitle> সরষে বাটায় পটলের খোসা ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/vorta-shorshebata-potol.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> পটলের খোসা দিয়ে তৈরি করা যায় চমৎকার ভর্তা। এর সাথে সরিষা যোগ করে আলাদা স্বাদ। আরও সুস্বাদু করতে চাইলে যোগ করা যায় চিংড়ি মাছ।  </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পটোলের খোসা - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরষেবাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুন - ১ কোয়া ভাজা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শুকনো মরিচ - ২/৩টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ কুচি - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সেদ্ধ চিংড়ি মাছ  - ৪/৫টি (ইচ্ছা) </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+                
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. পটোলের খোসা ছাড়িয়ে ১ কাপ পানি দিয়ে ঢেকে সেদ্ধ করে নিতে হবে।
+২. তারপর সরষে, রসুন, শুকনো মরিচ ও লবণ দিয়ে শিলপাটায় বেটে নিতে হবে।
+৩. সবশেষে পেঁয়াজকুচি দিয়ে মাখিয়ে পরিবেশন করা যায় পটোলের খোসা ভর্তা।
+ 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="109">
+            
+            <RecipeTitle> টাকি মাছ ভর্তা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/taki-vorta.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> টাকি মাছের ভর্তা খুব জনপ্রিয়। টাকি মাছ তেলে লাল করে ভেজে এর সাথে কাঁচামরিচ, পেঁয়াজ, আদা, ধনেপাতা মেখে তৈরি করা হয় ভর্তা। তবে খেয়াল রাখতে হয় ভাজার পর মাছে কোন পানি থাকতে পারবে না এবং খুব ভাল ভাবে মাছের কাঁটা বেছে নিতে হবে। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> টাকি মাছ - ৪টি বড় </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজকুচি - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচা মরিচ কুচি - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেপাতাকুচি - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আদা মিহি কুচি - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুনবাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদগুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচগুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - ৪ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. টাকি মাছ কেটে ও ধুয়ে পানি ঝরিয়ে রাখতে হবে।
+২. রসুনবাটা, হলুদ-মরিচের গুঁড়া ও লবণ মাখিয়ে রাখতে হবে পাঁচ মিনিট।
+৩. কড়াইয়ে তেল দিয়ে তাতে টাকি মাছগুলো লাল করে এবং একটু চেপে চেপে ভালো করে ভাজতে হবে, যেন কোনো পানি না থাকে মাছের মধ্যে।
+৪. ভাজা হলে মাছের কাঁটা বেছে কাঁচা মরিচ, পেঁয়াজকুচি, ধনেপাতা ও আদাকুচি দিয়ে মেখে পরিবেশন করা যায় মজাদার টাকি মাছের ভর্তা।
+
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+
+
+
 
         
        </Category> <!-- End ভর্তা category --> 
