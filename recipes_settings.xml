@@ -747,8 +747,232 @@
             </RecipeStepsList>
             
         </RecipeInfo>
+        
+<RecipeInfo id="201">
+            
+            <RecipeTitle> শিমের বিচি দিয়ে রুই মাছ </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/shimer-bichi.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> শিমের বিচি খুব জনপ্রিয় একটি খাবার। শিমের বিচির সাথে রুই মাছ যোগ করলে এটি হয় আরও সুস্বাদু। এর সাথে লাগবে আদা, রসুন, পেঁয়াজ, জিরা, ধনে, টমেটো। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রুই মাছের টুকরো - ৮/১০টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> শিমের বিচি - আধা কেজি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আদাবাটা - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুনবাটা - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদগুঁড়া - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচগুঁড়া - দেড় চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজবাটা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> জিরাগুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেগুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচামরিচ - ২/৩টা </RecipeIngredientsName>
+                </RecipeIngredient> 
+                <RecipeIngredient>
+                    <RecipeIngredientsName> টমেটো - আধা কাপ </RecipeIngredientsName>
+                </RecipeIngredient> 
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient> 
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেপাতা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient> 
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ -স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. রুই মাছ হলুদ, মরিচ ও লবণ দিয়ে মেখে অল্প ভেজে নিতে হবে।  
+২. এবার তেলে সব মসলা কষিয়ে শিমের বিচি ঢেলে সামান্য পানি দিয়ে কষিয়ে নিতে হবে।
+৩. মাছ ও টমেটো ঢেলে দিতে হবে।
+৪. কাঁচামরিচ ও ধনেপাতা দিয়ে নামিয়ে ফেলতে হবে।
 
-        <RecipeInfo id="201">
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+        
+<RecipeInfo id="202">
+            
+            <RecipeTitle> ইলিশ মাছের মুড়িঘণ্ট </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/ilish-murighonto.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> মাছের মাথা দিয়ে মুড়িঘণ্ট খুবই সুস্বাদু একটি খাবার। আর সেটা যদি হয় ইলিশ মাছের মাথা তাহলে তো কথাই নেই, স্বাদ বেড়ে যায় বহুগুণ। মুড়িঘণ্ট এর জন্য অন্যতম আরও একটি উপাদান হল মুগডাল। এছাড়া পেয়াজ, আদা, জিরা তো আছেই। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ইলিশ মাছের মাথা - ১টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ভাজা মুগডাল - ২৫০ গ্রাম </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ কুচি - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আদা বাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেজপাতা - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচ গুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদ গুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচামরিচ (ফালি) - ৫/৬টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ বেরেস্তা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ভাজা জিরা গুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ঘি - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - প্রয়োজনমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. মাছের মাথা কেটে টুকরো করে পরিষ্কার করে নিতে হবে।
+২. মাছের মাথায় লবণ, হলুদ ও মরিচের গুঁড়া মেখে ভেজে রাখতে হবে।
+৩. সসপ্যানে তেল দিয়ে, একে একে সব মসলা ও সামান্য পানি দিয়ে কষাতে হবে।
+৪. কষানো হলে মুগডাল দিতে হবে।
+৫. একটু কষিয়ে পরিমাণমতো গরম পানি দিতে হবে এবং মাঝেমধ্যে নেড়ে দিতে হবে।
+৬. ডাল সেদ্ধ ও ঘন হলে মাছের মাথা দিতে হবে।
+৭. একটু নেড়ে ভাজা জিরার গুঁড়া ও পেঁয়াজ বেরেস্তা দিয়ে নামিয়ে নিতে হবে। 
+৮. পরিবেশনের সময় ঘি দিয়ে পরিবেশন করতে হবে।
+                        
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="203">
+            
+            <RecipeTitle> ফুলকপি ও রুই মাছের ঝোল </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/fulkopi-ruimach.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> শীতকালীন সবজির মধ্যে ফুলকপি অন্যতম। ফুলকপি দিয়ে রুই মাছের ঝোল খুব সুস্বাদু খাবার। এতে আরও প্রয়োজন পেয়াজ, রসুন, ধনে, টমেটো, জিরা। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রুই মাছ - ৮ টুকরা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ফুল কপির ফুল - ৮/১০টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ বাটা - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুন বাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদ গুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনে গুঁড়া - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচ গুঁড়া - ঝাল অনুযায়ী </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> টমেটো কুচি – ১ টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পানি - প্রয়োজনমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> জিরা গুঁড়া - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচা মরিচ - ৪টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ধনেপাতা - সামান্য </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. মাছ ধুয়ে অল্প হলুদ ও লবণ দিয়ে ভাজতে হবে।
+২. এবার ওই তেলে ফুলকপি অল্প আঁচে ভেজে বাকি তেলে রসুন ও পেঁয়াজ কুচি দিয়ে টমেটো ও অন্য সব মসলা দিয়ে রান্না করতে হবে।
+৩. এবার প্রথমে ফুলকপি দিয়ে তিন মিনিট রান্না করে মাছ ভাজা দিয়ে আরও তিন মিনিট রান্না করে ঝোল দিতে হবে।
+৪. হয়ে এলে ওপরে কাঁচা মরিচ, ধনেপাতা ও জিরার গুঁড়া ছিটিয়ে অল্প আঁচে আরও দুই-তিন মিনিট রেখে নামাতে হবে।
+
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+
+
+
+        <RecipeInfo id="204">
             
             <RecipeTitle>গরুর ঝাল মাংস ভুনা</RecipeTitle>
             
@@ -815,6 +1039,614 @@
             </RecipeStepsList>
             
         </RecipeInfo>
+        
+<RecipeInfo id="205">
+            
+            <RecipeTitle> আচার গোশত </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/achar_gosto.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> গোশতের নানান পদের মধ্যে আচার গোশত অন্যতম। গোশতের সাথে আচারের মিশ্রণ স্বাদে আনে ভিন্নতা। এতে লাগবে আম অথবা জলপাইয়ের ঝাল আচার। এছাড়াও পাঁচফোড়ন, পেঁয়াজ, আদা, রসুন, জিরা, সরিষা তো আছেই। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> গরুর গোশত - ১ কেজি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আম অথবা জলপাইয়ের ঝাল আচার - ৩ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পাঁচফোড়ন - আধা চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজকুচি - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আদাবাটা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুনবাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> জিরাবাটা - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরিষাবাটা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচগুঁড়া - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদগুঁড়া - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> দারুচিনি - ২ টুকরা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> এলাচ - ২টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেজপাতা - ১টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> সরিষার তেল - আধা কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> চিনি - ১ চা চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচা মরিচ - ৮/১০টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> লবণ - স্বাদমতো </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. গোশত টুকরা করে ধুয়ে আচার ও কিছু কাঁচা মরিচ বাদে সব উপকরণ মেখে নিতে হবে। 
+২. তেল গরম করে পাঁচফোড়নের ফোড়ন দিতে হবে। 
+৩. তাতে মাখানো গোশত ও পরিমাণমতো পানি দিয়ে অল্প আঁচে রান্না করতে হবে। 
+৪. গোশত সিদ্ধ হয়ে পানি শুকিয়ে গেলে আচার ও কাঁচা মরিচ দিয়ে কিছুক্ষণ চুলায় রেখে নামাতে হবে।
+ 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="206">
+            
+            <RecipeTitle> মেজবানি মাংস </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="207">
+            
+            <RecipeTitle> নেহারি </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="208">
+            
+            <RecipeTitle> খাসির রেজালা </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/khasir-rejala.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> খাসির মাংসের নানান পদের মধ্যে খাসির রেজালা অন্যতম। যারা খাসির মাংস পছন্দ করেন তাদের কাছে রেজালা খুব জনপ্রিয়। এতে প্রয়োজন পেঁয়াজ, আদা, রসুন, হলুদ, কাঁচামরিচ, টকদই, মিষ্টি দই, পোস্তদানা, ঘি। </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> খাসির মাংস - ৩ কেজি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পেঁয়াজ - ১ কেজি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আদাবাটা - ৩ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> রসুনবাটা - দেড় টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> হলুদ গুঁড়া - আধা চা-চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> কাঁচামরিচ বাটা - ১ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> আস্ত কাঁচামরিচ - ৬-৭টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মরিচ গুঁড়া - ১ চা-চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName>  টক দই - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> মিষ্টি দই - সিকি কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> পোস্তদানা বাটা - ২ টেবিল চামচ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> দারচিনি - ৬ টুকরা </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> এলাচ - ৬টি </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> তেল - ১ কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> ঘি - আধা কাপ </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. আধা কেজি পেঁয়াজ কুচি করে কেটে নিতে হবে আর আধা কেজি পেঁয়াজ বেটে নিতে হবে। 
+২. খাসির মাংস বড় টুকরা করে আদা, রসুন, লবণ দিয়ে মেখে রাখতে হবে। 
+৩. তেল, ঘি গরম করে তাতে পেঁয়াজ ভেজে বেরেস্তা করে মাখানো মাংস দিয়ে রান্না করতে হবে। 
+৪. কয়েকটি বলক এলে পেঁয়াজবাটা, হলুদ, মিষ্টি মরিচ, কাঁচামরিচ, টক দই, মিষ্টি দই দিয়ে কষাতে হবে।
+৫. মাংস তেলের ওপর এলে পোস্তদানা দিয়ে ভালো করে কষিয়ে এলাচ, দারচিনি দিয়ে গরম পানি দিতে হবে।
+৬. মাংস সেদ্ধ হয়ে তেলের ওপর এলে আস্ত কাঁচামরিচ দিয়ে নামাতে হবে।
+ 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="209">
+            
+            <RecipeTitle> Recipe Name </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="00">
+            
+            <RecipeTitle> Recipe Name </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="00">
+            
+            <RecipeTitle> Recipe Name </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+<RecipeInfo id="00">
+            
+            <RecipeTitle> Recipe Name </RecipeTitle>
+            
+            <RecipePicture>https://re-enter-rupok.github.io/BanglaRecipe/images/default.jpg</RecipePicture>
+            
+            <RecipeSummary>
+                <RecipeSummaryOrigin>বাংলাদেশ</RecipeSummaryOrigin>
+                <RecipeSummaryPreparationTime>n/a</RecipeSummaryPreparationTime>
+                <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
+                <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
+                <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
+                <RecipeSummaryDescription> Some Description of Recipe / or Recipe </RecipeSummaryDescription>
+            </RecipeSummary>
+            
+            <RecipeIngredientsList>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 1 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 2 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 3 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 4 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 5 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 6 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 7 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 8 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 9 </RecipeIngredientsName>
+                </RecipeIngredient>
+                <RecipeIngredient>
+                    <RecipeIngredientsName> Ingredient 10 </RecipeIngredientsName>
+                </RecipeIngredient>
+            </RecipeIngredientsList>
+            
+            <RecipeStepsList>
+                <RecipeStep>
+                    <RecipeStepName>প্রস্তুতপ্রণালি : </RecipeStepName>
+                    <RecipeStepDescription>
+১. paste line 1 and rest of the lines below
+২. 
+৩. 
+৪. 
+৫. 
+৬. 
+৭. 
+৮. 
+৯. 
+১০. 
+                    </RecipeStepDescription>
+                </RecipeStep>
+            </RecipeStepsList>   
+            
+        </RecipeInfo>
+
     </Category> <!-- End মাছ-মাংস category --> 
     
     <!-- List with vegeterian meals -->
@@ -970,16 +1802,13 @@
             
             <RecipeIngredientsList>
                 <RecipeIngredient>
-                    <RecipeIngredientsName>মাংস</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>২৫০ গ্রাম</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>মাংস ২৫০ গ্রাম</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>রুটি </RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>৫টি</RecipeIngredientsQuantity>
+                    <RecipeIngredientsName>রুটি ৫টি</RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
-                    <RecipeIngredientsName>দুই চা চামচ আদা-রসুন বাটা </RecipeIngredientsName>
-                    <RecipeIngredientsQuantity/>
+                    <RecipeIngredientsName>আদা-রসুন বাটা দুই চা চামচ  </RecipeIngredientsName>
                 </RecipeIngredient>
                  <RecipeIngredient>
                     <RecipeIngredientsName>জিরা গুঁড়া এক চা চামচ</RecipeIngredientsName>
