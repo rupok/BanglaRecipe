@@ -3162,7 +3162,7 @@
                 <RecipeSummaryCookingTime>n/a</RecipeSummaryCookingTime>
                 <RecipeSummaryPortions>n/a</RecipeSummaryPortions>
                 <RecipeSummaryCalories>n/a</RecipeSummaryCalories>
-                <RecipeSummaryDescription> গাগাজরের শরবত খুব মজাদার পানীয়। শুধু মজাদার না এই জুস শরীরের জন্যও খুব উপকারী। গাজর, চিনি, পানি, বাদাম গুঁড়ো দিয়ে খুব সহজেই বাসায় তৈরি করা যায় গাজরের শরবত। </RecipeSummaryDescription>
+                <RecipeSummaryDescription> গাজরের শরবত খুব মজাদার পানীয়। শুধু মজাদার না এই জুস শরীরের জন্যও খুব উপকারী। গাজর, চিনি, পানি, বাদাম গুঁড়ো দিয়ে খুব সহজেই বাসায় তৈরি করা যায় গাজরের শরবত। </RecipeSummaryDescription>
             </RecipeSummary>
             
             <RecipeIngredientsList>
@@ -3219,10 +3219,6 @@
             </RecipeSummary>
             
             <RecipeIngredientsList>
-                <RecipeIngredient>
-                    <RecipeIngredientsName>plain Madeira cake</RecipeIngredientsName>
-                    <RecipeIngredientsQuantity>450-500g/1lb-1lb 2oz</RecipeIngredientsQuantity>
-                </RecipeIngredient>
                  <RecipeIngredient>
                     <RecipeIngredientsName>দুধ </RecipeIngredientsName>
                     <RecipeIngredientsQuantity>দেড় লিটার </RecipeIngredientsQuantity>
